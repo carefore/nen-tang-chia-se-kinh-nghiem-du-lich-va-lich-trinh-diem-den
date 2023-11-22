@@ -1,5 +1,4 @@
 
-```markdown
 # Chia sẻ kinh nghiệm du lịch và lịch trình điểm đến
 
 Đây là một nền tảng đơn giản để chia sẻ kinh nghiệm du lịch và lưu trữ thông tin về các điểm đến yêu thích của bạn. Bạn có thể thêm thông tin về điểm đến và trải nghiệm cá nhân của mình để chia sẻ với cộng đồng.
